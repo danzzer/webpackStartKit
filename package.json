@@ -1,0 +1,21 @@
+{
+  "name": "my_start_kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^4.1.6",
+    "babel-loader": "^5.0.0",
+    "babel-plugin-dev-expression": "^0.1.0",
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
